@@ -1,0 +1,12 @@
+require("core.option")
+require("plugins.plugins-setup")
+require("core.keymaps")
+
+require("plugins.treesitter")
+require("plugins.nvim-tree")
+require("plugins.lualine")
+--require("plugins.lsp")
+--require("plugins.cmp")
+require("plugins.comment")
+require("plugins.autopairs")
+require("plugins.butterline")

@@ -1,7 +1,7 @@
 **_Aunnno自用nvim配置_** 
 #### Some imformation 
 - Service:respberry pi 4b
-- Sysytem:ubuntu22.04
+- Sysytem:ubuntu 22.04
 - nvim version:0.10
 #### The plugins 
  

@@ -4,7 +4,9 @@
 - Sysytem:ubuntu 22.04
 - nvim version:0.10
 #### The plugins 
- 
+---
+- * Plugins manager:Lazy.nvim
+---
 - `"folke/tokyonight.nvim"`  
 - `"nvim-tree/nvim-tree.lua"`  文档树
 - `"nvim-treesitter/nvim-treesitter"`  语法高亮

@@ -1,3 +1,3 @@
-*Aunnno自用nvim配置，想抄就抄*
-. service:respberry pi 4b
-. sysytem:ubuntu22.04
+**_Aunnno自用nvim配置，想抄就抄_** 
+- service:respberry pi 4b
+- sysytem:ubuntu22.04

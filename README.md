@@ -1,4 +1,10 @@
 **_Aunnno自用nvim配置_** 
+- Why does I sometimes use English and sometimes not? 
+- Becourse there is not Chinese input in my ubuntu.
+Fucking!!!
+#### How to use? 
+Clone into your folder of your vim's config. 
+**It is deferent between Linux and Windows.**
 #### Some imformation 
 - Service:respberry pi 4b
 - Sysytem:ubuntu 22.04
@@ -17,3 +23,7 @@
 - `"p00f/nvim-ts-rainbow"`  配合treesitter，不同括号颜色区分
 - `"numToStr/Comment.nvim"`  gcc和gc注释
 - `"windwp/nvim-autopairs"`  自动补全括号
+- `"Pocco81/auto-save.nvim"`  Auto-save 
+- `"toppair/peek.nvim"` 
+#### The keymaps
+

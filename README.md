@@ -26,17 +26,17 @@
 - `"Pocco81/auto-save.nvim"`  Auto-save 
 #### 自定义按键
 我设置的主按键是空格
-- INSECT 
+- INSECT   
 `<ESC> -> jk`  退出 NORMAL 模式
-- NORMAL
+- NORMAL  
 `<C-w>v -> <leader>sv`  水平打开新窗口  
 `<C-w>s -> <leader>sh`  竖直打开新窗口  
 `:w -> <leader>w`  保存该文件  
 `:q -> <leader>q`  退出该文件  
 `:nohl -> <leader>nh`  取消高亮  
-- nvim-tree
+- nvim-tree  
 `:NvimTreeToggle -> <leader>e`  打开/关闭文件树  
 `:NvimTreeFocus -> <leader>t`  转到文件树  
-- buffer
+- buffer  
 `:bnext -> <leader>l`  向右切换窗口  
 `:bprevious -> <leader>h`  向左切换窗口  

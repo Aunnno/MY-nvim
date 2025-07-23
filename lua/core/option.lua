@@ -29,4 +29,3 @@ vim.opt.splitbelow = true
 vim.opt.termguicolors = true
 vim.signcolumn = "yes"
 
---主题

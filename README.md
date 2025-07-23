@@ -5,13 +5,13 @@
 1.`init.lua` 
 2.`lua`
 **Linux 和 Windows 的相关文件目录可能有所不同，请自行查阅资料**
-#### Some imformation 
-- Device:respberry pi 4b
-- Sysytem:ubuntu 22.04
-- nvim version:0.10
-#### The plugins 
+#### 一些信息
+- 设备:respberry pi 4b
+- 系统:ubuntu 22.04
+- nvim版本:0.12
+#### 插件
 ---
-- * Plugins manager:Lazy.nvim
+- * 插件管理器:Lazy.nvim
 ---
 - `"folke/tokyonight.nvim"`  "Tokyo night"主题
 - `"nvim-tree/nvim-tree.lua"`  文档树
@@ -24,18 +24,19 @@
 - `"numToStr/Comment.nvim"`  gcc和gc注释
 - `"windwp/nvim-autopairs"`  自动补全括号
 - `"Pocco81/auto-save.nvim"`  Auto-save 
-#### The keymaps
+#### 自定义按键
+我设置的主按键是空格
 - INSECT 
-`<ESC> -> jk`  
+`<ESC> -> jk`  退出 NORMAL 模式
 - NORMAL
-`<C-w>v -> <leader>sv`
-`<C-w>s -> <leader>sh`
-`:w -> <leader>w`
-`:q -> <leader>q`
-`:nohl -> <leader>nh`
+`<C-w>v -> <leader>sv`  水平打开新窗口
+`<C-w>s -> <leader>sh`  竖直打开新窗口
+`:w -> <leader>w`  保存该文件
+`:q -> <leader>q`  退出该文件
+`:nohl -> <leader>nh`  取消高亮
 - nvim-tree
-`:NvimTreeToggle -> <leader>e`
-`:NvimTreeFocus -> <leader>t`
+`:NvimTreeToggle -> <leader>e`  打开/关闭文件树
+`:NvimTreeFocus -> <leader>t`  转到文件树
 - buffer
-`:bnext -> <leader>l`
-`:bprevious -> <leader>h`
+`:bnext -> <leader>l`  向右切换窗口
+`:bprevious -> <leader>h`  向左切换窗口

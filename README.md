@@ -1,6 +1,6 @@
 **_Aunnno自用nvim配置_** 
 #### 使用方法 
-克隆到你本地的文件夹中，然后把配置文件复制到.config/nvim文件夹(init.lua) 
+克隆到你本地的文件夹中，然后把配置文件复制到.config/nvim文件夹(init.lua)   
 你需要复制的文件/文件夹：  
 1.`init.lua`   
 2.`lua`  
